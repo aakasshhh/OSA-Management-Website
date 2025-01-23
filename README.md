@@ -1,4 +1,4 @@
-# OSA Management Website
+# OSA Management Website 
 **OSA Management Website** is a web application designed to simplify and streamline the management of clubs and societies within Chitkara University. With features like automated email notifications, centralized club data storage, and a user-friendly interface, the system helps manage and coordinate various activities efficiently.
 
 
